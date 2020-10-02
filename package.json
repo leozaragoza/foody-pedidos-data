@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "directory": "node ./src/scripts/createDirectory.js",
+    "images": "node ./src/scripts/createImages.js",
+    "products": "node ./src/scripts/createProducts.js",
+    "categories": "node ./src/scripts/createCategories.js",
+    "clean": "node ./src/scripts/cleanData.js"
+  },
+  "devDependencies": {
+    "convert-csv-to-json": "^0.0.15",
+    "node-xlsx": "^0.15.0",
+    "recursive-readdir": "^2.2.2",
+    "rimraf": "^3.0.2",
+    "sharp": "^0.25.2",
+    "sync-request": "^6.1.0"
+  },
+  "dependencies": {}
+}

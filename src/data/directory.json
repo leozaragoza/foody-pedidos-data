@@ -1,0 +1,29 @@
+[
+ {
+  "name": "Katz Sport",
+  "slug": "katz-sport",
+  "category": "Indumentaria",
+  "address": "Santa María de Oro 221",
+  "city": "Resistencia, Chaco",
+  "whatsappNumber": "+543624713393",
+  "showInDirectory": true
+ },
+ {
+  "name": "One Lomos & Burger",
+  "slug": "one-cba",
+  "category": "Gastronomía",
+  "address": "Obispo Trejo 789",
+  "city": "Cordoba, Cordoba",
+  "whatsappNumber": "+543517029580",
+  "showInDirectory": true
+ },
+ {
+  "name": "Indianapolis Ferreteria",
+  "slug": "indianapolis",
+  "category": "Ferretería",
+  "address": "San Martin 1735",
+  "city": "Resistencia, Chaco",
+  "whatsappNumber": "+543624225749",
+  "showInDirectory": true
+ }
+]
